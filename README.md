@@ -1,51 +1,73 @@
-# FNR-studies
+# 🛡️ **Estudos FNR**
 
-### Objetivo:
-Ser um repositório onde a gente guarda referencias e materiais de estudos em segurança da informação e assuntos derivados.
+### 🎯 **Objetivo**
+Ser um repositório onde as pessoas guardam referências e materiais de estudos em segurança da informação e assuntos pertinentes. 🚀
 
+---
 
-### Regras: 
-- Não comite na branch master, abra um PR. 
-- Voce é livre para colocar qualquer conteúdo de estudo que não fira a existência do próximo. 
-- Conteúdos que ameacem o uso do réu primário serão removidos. 
-
-
-## Referências para Trilhas de Certificações
-- Microsoft Certified: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- Security Certification Roadmap: https://pauljerimy.com/security-certification-roadmap/
-
-
-## Cursos Gratuitos
-### Linux
-- https://letsdefend.io/
-
-### Pentest
-- https://solyd.com.br/cursos/introducao-ao-hacking-e-pentest-2/
-- https://desecsecurity.com/curso/introducao-pentest
+## 📜 **Regras**
+1. **🚫 Não rafarás o rolê!**  
+2. **🌈 Espaço seguro para todes:** Todos os assuntos são bem-vindos.  
+3. **🐾 Compartilhe fotos dos seus pets:** Alegrar o dia de alguém é sempre bem-vindo!  
+4. **🔐 Lembre-se:** Base64 não é criptografia.  
+5. **🤗 Novato em Segurança?** Não tem problema! Estamos aqui para ajudar e ensinar. Chegue mais!
+6. **🔒 Não comite diretamente na branch `master`!** Sempre abra um **Pull Request (PR)** para revisão.
+7. **🤝 Seja respeitoso(a):** Conteúdos que ameacem o uso do réu primário serão removidos.
+10. **📚 Liberdade de aprendizado:** Você é livre para colocar qualquer conteúdo de estudo que não fira a existência do próximo. 🎓
 
 
-### Variados
-- SENAI: https://www.sp.senai.br/cursos/0/tecnologia-da-informacao-e-informatica?gratuito=1
-- Google + CIEE: https://portal.ciee.org.br/quero-me-preparar/google-tech/google-tech-regulamento/
-- Cisco: https://www.netacad.com/
-- Hack the Box Academy: https://academy.hackthebox.com/catalogue
-- TryHackMe: https://tryhackme.com/r/hacktivities
+---
+## 🐱‍💻 **Convite do grupo** 
+[Faça parte](https://chat.whatsapp.com/CS2yFAzxaQs8jLKM923Gxz)
 
+---
 
-## Laboratórios para praticar
-### Pentest Web
-- https://pentesterlab.com/
-- https://portswigger.net/web-security/all-labs
+## 🛤️ **Trilhas de Certificações**
+- 🏅 [Certificado pela Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)  
+- 📜 [Roteiro de Certificação de Segurança](https://pauljerimy.com/security-certification-roadmap/)  
 
+---
 
-### Pentest Máquinas
-- https://www.hackthebox.com/
-- https://tryhackme.com/r/hacktivities/practice
+## 🎓 **Cursos Gratuitos**
+### 🐧 **Linux**
+- [Let's Defend](https://letsdefend.io/)
 
+### 💻 **Teste de Penetração**
+- [Introdução ao Hacking e Pentest - Solyd](https://solyd.com.br/cursos/introducao-ao-hacking-e-pentest-2/)  
+- [Curso de Introdução ao Pentest - Desec Security](https://desecsecurity.com/curso/introducao-pentest)
 
-### Blue Team
-- https://letsdefend.io/
+### 🌐 **Variados**
+- [Cursos Gratuitos SENAI](https://www.sp.senai.br/cursos/0/tecnologia-da-informacao-e-informatica?gratuito=1)  
+- [Google + CIEE - Formação Tech](https://portal.ciee.org.br/quero-me-preparar/google-tech/google-tech-regulamento/)  
+- [Cisco Networking Academy](https://www.netacad.com/)  
+- [Academia Hack the Box](https://academy.hackthebox.com/catalogue)  
+- [TryHackMe](https://tryhackme.com/r/hacktivities)
 
+---
 
-### Comandos Linux
-- https://overthewire.org/wargames/
+## 🧪 **Laboratórios para Praticar**
+### 🌍 **Teste de Penetração na Web**
+- [PentesterLab](https://pentesterlab.com/)  
+- [PortSwigger Web Security Labs](https://portswigger.net/web-security/all-labs)
+
+### 🖥️ **Pentest em Máquinas**
+- [Hack The Box](https://www.hackthebox.com/)  
+- [TryHackMe](https://tryhackme.com/r/hacktivities/practice)
+
+### 🔵 **Equipe Azul (Defesa)**
+- [Let's Defend](https://letsdefend.io/)
+
+---
+
+## 🛠️ **Comandos Linux e Wargames**
+- [OverTheWire Wargames](https://overthewire.org/wargames/)
+
+---
+
+### 📝 **Contribua com a Comunidade**
+💡 Tem algo para adicionar? **Abra um PR** com a sua sugestão! 🌟  
+📬 Dúvidas? Entre em contato.
+
+--- 
+
+**Hack the Planet FNR!** 🐱‍💻
